@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #15e815; 
+    text-align: center;
+    padding: 30px;
+    margin: 10;
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    display: inline-block;
+    width: 60%;
+    max-width: 600px;
+}
+
+button {
+    padding: 30pxx;
+    font-size: 30px;
+    background-color: #191a18;
+    color: rgb(16, 189, 16);
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+
+button:hover {
+    background-color: #555;
+}
+
+#dog-image-container img {
+    max-width: 90%;
+    height: auto;
+    border-radius: 15px;
+}
